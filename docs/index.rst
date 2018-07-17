@@ -1,6 +1,10 @@
 Rungstedtand: Tandlæge ved Hørsholm
 =======================================
 
+**Denne side omhandler:**
+- Tandlæger Hørsholm
+- Tandlæge Vedbæk
+
 # Tandlæger Hørsholm
 
 Her er det muligt at finde en tandlæge Hørsholm, hvilket er nødvendigt i forbindelse med at komme til tandlæge i Nordsjælland: http://rungstedtand.dk/
