@@ -22,3 +22,4 @@ Tandlæge Vedbæk
 
 Se også mulighederne i forhold til at komme fra Vedbæk til tandlæge: http://rungstedtand.dk/tandlaege-vedbaek/
 
+Feel free to check out other projects here: https://miruco.readthedocs.io
