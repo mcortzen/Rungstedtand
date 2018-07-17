@@ -2,6 +2,7 @@ Rungstedtand: Tandlæge ved Hørsholm
 =======================================
 
 **Denne side omhandler:**
+
 - Tandlæger Hørsholm
 - Tandlæge Vedbæk
 
